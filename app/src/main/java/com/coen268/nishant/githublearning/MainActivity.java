@@ -5,6 +5,10 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+// This was written in Master Branch //
+
+// This will be edited in branch to see the changes//
+
 
 public class MainActivity extends ActionBarActivity {
 
