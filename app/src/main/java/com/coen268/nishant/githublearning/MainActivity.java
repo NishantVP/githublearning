@@ -10,6 +10,7 @@ import android.view.MenuItem;
 // This will be edited in branch to see the changes//
 
 //This is written in Branch_1 //
+//This is written in Branch_1 //
 
 public class MainActivity extends ActionBarActivity {
 
