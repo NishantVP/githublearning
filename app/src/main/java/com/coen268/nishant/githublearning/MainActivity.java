@@ -12,6 +12,8 @@ import android.view.MenuItem;
 //This is written in Branch_1 //
 //This is written in Branch_1 //
 
+//Master edit
+
 public class MainActivity extends ActionBarActivity {
 
     @Override
