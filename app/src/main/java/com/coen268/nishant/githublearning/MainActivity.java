@@ -14,6 +14,8 @@ import android.view.MenuItem;
 
 //Master edit
 
+//Branch 2 edit
+
 public class MainActivity extends ActionBarActivity {
 
     @Override
